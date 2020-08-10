@@ -177,6 +177,8 @@
     <None Include="Schema-Model\dbo\Tables\PersonsTwo.sql" />
     <None Include="Migrations\1.0.0-Baseline\002_20200810-1447_Daniel.Pottenger.sql" />
     <None Include="Schema-Model\dbo\Tables\SomeOtherTable.sql" />
+    <None Include="Migrations\1.1.0-Changes\001_20200810-1449_Daniel.Pottenger.sql" />
+    <None Include="Schema-Model\dbo\Tables\SomeTable.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Pre-Deployment\01_Initialize_Deployment.sql" />
